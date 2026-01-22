@@ -41,8 +41,14 @@ images/: Dashboard screenshots for preview
 ## Dashboard Preview and Overview
 *Dashboard Preview Overview (images/dashboard_overview.png) Sales Analysis (images/business_analysis.png) Delivery Performance(images/delivery_performance.png)
 
+## Note: The full Power BI file (.pbix) is not included due to GitiHub file size limits. The screenshots above show all key visuals from the dashboard.
+## Note: Project Report Detailed insight and business recommendations are documented here:- 
+
 ## Key Skill Demostarted
 * Key Skills Demonstrated • Data cleaning and transformation • Data modeling and relationships • DAX calculations • Data visualization and storytelling • Business insight generation
+  
+## PROJECT FILE
+* The full Power BI File pbix is not included due to GitiHub file size limits. Screenshots of some dashboard were included to support ducumentation.
   
  ## CONTACT
  For questions, feedback, or collaboration opportunities, feel free to reach out.
